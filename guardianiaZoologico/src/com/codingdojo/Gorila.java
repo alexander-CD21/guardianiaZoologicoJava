@@ -9,6 +9,7 @@ public class Gorila extends Mamifero {
 		super(nivelDeEnergia);
 		this.nombre = nombre;
 	}
+	
 	//definiendo los getter y setter 
 
 	public String getNombre() {
